@@ -2,5 +2,6 @@
 {
     public class Author
     {
+        public string LastName { get; set; }
     }
 }
